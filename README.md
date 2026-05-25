@@ -20,8 +20,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 - 🎓 Computer Science student passionate about **Backend Development**
 - 💻 Currently working with **Java, Spring Boot, PostgreSQL**
 - ☁️ Exploring **AWS, Cloud, Docker, Kubernetes**
