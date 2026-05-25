@@ -75,7 +75,7 @@ A full-stack event management platform where users can browse, book, and manage 
   <a href="https://github.com/chezsan770">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/sarthak-kumar-4b50132b2/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chezsan770@gmail.com">
