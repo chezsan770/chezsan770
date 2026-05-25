@@ -80,23 +80,16 @@ A full-stack event management platform where users can browse, book, and manage 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chezsan770&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chezsan770&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chezsan770&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chezsan770&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chezsan770&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chezsan770/chezsan770/output/snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=chezsan770&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
