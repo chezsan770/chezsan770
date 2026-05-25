@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sarthak Kumar</h1>
+<h3 align="center">A passionate Backend & Cloud Enthusiast from India</h3>
 
-<!--
-**chezsan770/chezsan770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Backend+Developer;Cloud+%26+DevOps+Learner;Building+Scalable+Applications" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science student passionate about **Backend Development**
+- 💻 Currently working with **Java, Spring Boot, PostgreSQL**
+- ☁️ Exploring **AWS, Cloud, Docker, Kubernetes**
+- 🔧 Interested in **DevOps, CI/CD, and scalable system design**
+- 📌 Focused on building real-world, resume-worthy projects
+
+---
+
+## 🛠️ Tech Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,docker,kubernetes,bash,linux,git,github" />
+</p>
+
+### Languages & Tools
+
+| Category | Skills |
+|---|---|
+| Programming | **Java**, **Bash** |
+| Backend | **Spring Boot**, REST APIs |
+| Database | **PostgreSQL** |
+| Cloud | **AWS**, Cloud Computing |
+| DevOps | **Docker**, **Kubernetes**, Linux |
+| Version Control | **Git**, **GitHub** |
+
+---
+
+## 🔥 What I Am Learning
+
+- Advanced **Spring Boot**
+- **AWS Cloud Services**
+- **Docker & Kubernetes**
+- CI/CD and DevOps workflows
+- Production-level backend deployment
+
+---
+
+## 📌 Featured Projects
+
+### 🎟️ Event Booking Web App
+A full-stack event management platform where users can browse, book, and manage events.
+
+**Tech Used:** Java, Spring Boot, PostgreSQL, AWS, Docker
+
+- Built REST APIs using **Spring Boot**
+- Integrated **PostgreSQL** for data management
+- Implemented backend logic for event booking and user operations
+- Deployed the application using cloud and container-based tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chezsan770&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chezsan770&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/chezsan770">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chezsan770@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💡 Building, Learning, and Growing every day</h3>
